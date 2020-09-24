@@ -17,21 +17,13 @@
     </item>
     
     <item>
-      <title>Contato</title>
-      <link>https://leandrosantosgit.github.io/pt-br/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://leandrosantosgit.github.io/pt-br/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
-    </item>
-    
-    <item>
       <title>Projetos</title>
       <link>https://leandrosantosgit.github.io/pt-br/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leandrosantosgit.github.io/pt-br/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <description>Alguns projetos desenvolvidos:
+ Site-Empresarial-Blog santosflix hipsta SantosMetalCar  Saiba mais e contribua no GitHub.</description>
     </item>
     
     <item>
@@ -40,9 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://leandrosantosgit.github.io/pt-br/about/</guid>
-      <description>Cursando Graduação em Sistemas de Informação na Universidade Estácio de Sá, com Formação Técnica em Informática pela Fucapi.
-Alguns projetos desenvolvidos:
- Site-Empresarial-Blog santosflix hipsta SantosMetalCar  Saiba mais e contribua no GitHub.</description>
+      <description>Cursando Graduação em Sistemas de Informação na Universidade Estácio de Sá, com Formação Técnica em Informática pela Fucapi.</description>
     </item>
     
   </channel>

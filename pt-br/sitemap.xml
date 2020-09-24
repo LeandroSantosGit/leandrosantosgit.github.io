@@ -93,20 +93,6 @@
   </url>
   
   <url>
-    <loc>https://leandrosantosgit.github.io/pt-br/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://leandrosantosgit.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://leandrosantosgit.github.io/pt-br/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://leandrosantosgit.github.io/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
